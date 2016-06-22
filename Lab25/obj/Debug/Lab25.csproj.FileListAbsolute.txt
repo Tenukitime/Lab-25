@@ -1,0 +1,6 @@
+C:\Users\Kyle\Documents\CS1400\Lab25\Lab25\bin\Debug\Lab25.exe.config
+C:\Users\Kyle\Documents\CS1400\Lab25\Lab25\bin\Debug\Lab25.exe
+C:\Users\Kyle\Documents\CS1400\Lab25\Lab25\bin\Debug\Lab25.pdb
+C:\Users\Kyle\Documents\CS1400\Lab25\Lab25\obj\Debug\Lab25.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\CS1400\Lab25\Lab25\obj\Debug\Lab25.exe
+C:\Users\Kyle\Documents\CS1400\Lab25\Lab25\obj\Debug\Lab25.pdb
